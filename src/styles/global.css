@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:wght@400;600&family=Share+Tech+Mono&display=swap");
+
+:root {
+  font-family: "Montserrat", sans-serif;
+
+  /***** Colors
+  #dc136c - red pink
+  #99c24d - bright green
+  #b1d6de - light blue
+  #7f98ad - dark blue
+  */
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}

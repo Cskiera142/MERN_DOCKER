@@ -1,0 +1,32 @@
+li {
+  list-style-type: none;
+}
+
+.task {
+  padding: 2rem;
+  height: 20rem;
+  width: 30rem;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.task-items {
+  display: flex;
+  flex-direction: column;
+}
+
+.task .description {
+  border: 1px solid black;
+  height: 12rem;
+  border-radius: 15px;
+  padding: 1rem;
+}
+
+.task button {
+  margin-top: 2rem;
+  width: 12rem;
+  height: 2.5rem;
+  border-radius: 15px;
+  border: 2px solid #dc136c;
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
